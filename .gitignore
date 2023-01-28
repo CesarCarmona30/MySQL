@@ -1,0 +1,7 @@
+.env
+node_modules
+package-lock.json
+root.json
+script.sql
+script.zip
+script2.sql
